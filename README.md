@@ -4,7 +4,7 @@
 <a href="https://github.com/BackusA920/Survey-Project"></a>
 
   <img src="./assets/2025-06-01 23_47_42-Window.png" width="500" >
-  <p>his project demonstrates practical form-building skills including structure, styling, validation, and responsiveness. It’s part of a broader front-end development learning journey showcasing attention to detail, accessibility, and design sensibility.</p>
+  <p>This project demonstrates practical form-building skills including structure, styling, validation, and responsiveness. It’s part of a broader front-end development learning journey showcasing attention to detail, accessibility, and design sensibility.</p>
   
 <br><br>
 <a href="https://github.com/BackusA920/Survey-Project">
